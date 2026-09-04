@@ -1,6 +1,6 @@
 const projects = [
   {
-    number: "01AAAAAA",
+    number: "01",
     title: "StellarPath",
     description: "Mobile GIS & Navigation",
     image:
@@ -300,7 +300,7 @@ export default function Home() {
                 </span>
 
                 <strong>
-                  Alif Ghifari
+                  Alif Ghifari @Gmail
                 </strong>
 
               </div>
