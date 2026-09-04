@@ -1,6 +1,6 @@
- const projects = [
+const projects = [
   {
-    number: "01",
+    number: "01dsds",
     title: "StellarPath",
     description: "Mobile GIS & Navigation",
     image:
