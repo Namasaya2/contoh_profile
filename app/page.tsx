@@ -1,6 +1,6 @@
 const projects = [
   {
-    number: "01",
+    number: "01AAAAAA",
     title: "StellarPath",
     description: "Mobile GIS & Navigation",
     image:
