@@ -300,7 +300,7 @@ export default function Home() {
                 </span>
 
                 <strong>
-                  Alif Ghifari @Gmail
+                  Alif Ghifari
                 </strong>
 
               </div>
