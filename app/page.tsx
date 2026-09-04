@@ -1,4 +1,4 @@
-const projects = [
+ const projects = [
   {
     number: "01",
     title: "StellarPath",
